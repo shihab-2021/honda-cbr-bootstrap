@@ -1,0 +1,45 @@
+header {
+    background-color: #264653;
+    color: #ffffff;
+}
+.color-update {
+    background-color: #E76F51;
+}
+.text-color-update {
+    color:#6C6C6C;
+}
+.text-color-update-2 {
+    color: #E76F51;
+}
+.text-color-update-3 {
+    color: #E0E0E0;
+}
+.card .update-img {
+    width: 149px;
+    height: 149px;
+    object-fit: cover;
+}
+#forget a {
+    text-decoration: none;
+    color: #E76F51;
+}
+#forget a:hover {
+    text-decoration: underline;
+}
+footer {
+    background-color: black;
+    min-height: 280px;
+    font-size: 20px;
+    color: #ffffff;
+}  
+footer a {
+    text-decoration: none;
+    color: #ffffff;
+}       
+.hrline {
+    width: 100px;
+    padding: 2px 0;
+    background-color: #E76F51 !important;
+    margin: 0 auto;
+    border-radius: 15px;
+}    
